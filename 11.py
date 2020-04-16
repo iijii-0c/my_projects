@@ -1,0 +1,12 @@
+x=13*2
+print(x)
+x=13**2
+print(x)
+x=13/5
+print(x)
+x=13%3
+print(x)
+x=13//3
+print(x)
+x=99//24
+print(x)
